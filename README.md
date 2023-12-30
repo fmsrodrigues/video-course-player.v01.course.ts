@@ -1,3 +1,6 @@
+# Note:
+Commented code is the original Redux + Redux Thunk implementation. The current implementation uses Zustand.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
